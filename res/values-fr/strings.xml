@@ -636,6 +636,7 @@
 	<string name="keep_proximity_sensor_on">Capteur de proximité actif</string>
     <string name="keep_proximity_sensor_on_sum">Ne pas désactiver le capteur de proximité pendant les appels si des oreillettes ou un casque sont utilisés</string>
     <string name="lockscreen_if_call_ends_with_screenoff">Verrouiller à la fin de l\'appel</string>
+    <string name="lockscreen_if_call_ends_with_screenoff_sum">Si le téléphone était en veille avant l\'appel, afficher l\'écran de verrouillage à la fin de la communication</string>
     <string name="vibrate_outgoing">Vibrer sur réponse</string>
     <string name="vibrate_45">Vibrer régulièrement</string>
     <string name="vibrate_45_sum">Vibration à la 45ème seconde de chaque minute quand la communication est établie</string>
